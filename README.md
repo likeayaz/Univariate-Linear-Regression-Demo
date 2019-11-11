@@ -1,0 +1,2 @@
+# Univariate-Linear-Regression-Demo
+Linear regression is a linear model, e.g. a model that assumes a linear relationship between the input variables (x) and the single output variable (y). More specifically, that output variable (y) can be calculated from a linear combination of the input variables (x).  Multivariate Linear Regression is a linear regression that has more than one input parameter and one output label.
